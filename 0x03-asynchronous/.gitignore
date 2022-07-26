@@ -1,0 +1,9 @@
+.idea
+.dart_tool
+Quotes/.dart_tool
+*main.dart
+*util.dart
+pubspec.lock
+.packages
+Quotes/pubspec.lock
+Quotes/.packages
